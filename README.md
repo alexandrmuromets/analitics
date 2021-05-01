@@ -1,5 +1,5 @@
 # analitics
-here some analytics  as home work
+This is my first analytic work
 # Skillbox - Мастер-класс: Разведочный анализ данных + Подготовка отчетов - Kiva.org
 ***
 
